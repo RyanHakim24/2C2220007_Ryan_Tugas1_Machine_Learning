@@ -1,4 +1,4 @@
-# Tugas Machine Learning 1 Decision Tree
+# Tugas Machine Learning 1 Decision Tree Classifiers
 
 * Ryan Fadhilah Faizal Hakim - 2C2220007
 
